@@ -1,0 +1,14 @@
+body {
+  height: 100%;
+  margin: 0;
+  background-color: black;
+}
+
+.center-container {
+  display: flex;
+  justify-content: center; /* Horizontal */
+  align-items: center; /* Vertical */
+
+  color: aliceblue;
+  height: 100vh;
+}
